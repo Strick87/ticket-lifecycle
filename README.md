@@ -51,6 +51,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 2. Assignment and Communication
 
+
+
+
+
+
 <p>
 
 </p>
@@ -65,13 +70,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 This screenshot shows the agent panel where the ticket is assigned to the appropriate department, "Online Banking Department," and its priority is set to Sev-A (1 hour SLA). You can also see how the system communicates with the end-user, notifying them that their ticket has been assigned and is under review.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+
+
+![image](https://github.com/user-attachments/assets/30523e0e-9b00-406d-a1f4-a1731e3d7bfe)
+
+
+3. WORKING THE ISSUE
+
+In this screenshot, you can see the agent working on the ticket. Internal notes are being added, troubleshooting steps are documented, and the status is updated as the issue is investigated. This stage ensures all relevant details are captured in the system.
 </p>
 <br />
