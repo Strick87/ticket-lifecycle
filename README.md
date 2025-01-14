@@ -34,7 +34,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 ![image](https://github.com/user-attachments/assets/7811357f-f0c2-405b-9d84-3a3cd58c759c)
-1. Intake-The stage where a ticket is created and logged into the system by an end-user or admin. This could be through a web form, email, phone, or direct interaction.
+
+
+
+1.INTAKE
+
+The stage where a ticket is created and logged into the system by an end-user or admin. This could be through a web form, email, phone, or direct interaction.
 
 
 
@@ -56,20 +61,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
 
 
-<p>
-
-</p>
-<p>
 This screenshot shows the agent panel where the ticket is assigned to the appropriate department, "Online Banking Department," and its priority is set to Sev-A (1 hour SLA). You can also see how the system communicates with the end-user, notifying them that their ticket has been assigned and is under review.
+
+
+
+
+
 
 
 
@@ -78,9 +77,16 @@ This screenshot shows the agent panel where the ticket is assigned to the approp
 ![image](https://github.com/user-attachments/assets/30523e0e-9b00-406d-a1f4-a1731e3d7bfe)
 
 
+
+
+
+
 3. WORKING THE ISSUE
 
 In this screenshot, you can see the agent working on the ticket. Internal notes are being added, troubleshooting steps are documented, and the status is updated as the issue is investigated. This stage ensures all relevant details are captured in the system.
+
+
+
 
 
 
