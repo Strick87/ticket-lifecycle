@@ -81,5 +81,21 @@ This screenshot shows the agent panel where the ticket is assigned to the approp
 3. WORKING THE ISSUE
 
 In this screenshot, you can see the agent working on the ticket. Internal notes are being added, troubleshooting steps are documented, and the status is updated as the issue is investigated. This stage ensures all relevant details are captured in the system.
-</p>
-<br />
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/9dc48336-16aa-4064-904e-1e3355db8a92)
+
+
+
+
+
+4. RESOLUTION
+
+This screenshot shows the ticket marked as "Resolved" in the agent panel. You can also see the final comments added to the ticket, explaining the resolution provided to the end-user. Another screenshot highlights the email sent to the user, confirming the issue has been resolved and thanking them for their patience.
+
